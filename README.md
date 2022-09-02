@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azukailonzo
-- 👀 I’m interested in software development, bioinformatics, and web design/development
-- 🌱 I’m currently learning python development and web development
+- 👀 I’m interested in iOS development, machine learning, and theoretical computer science
+- 🌱 I’m currently learning iOS development
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: a.ilonzo@outlook.com
 
