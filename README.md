@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azukailonzo
-- 👀 I’m interested in iOS development, machine learning, and theoretical computer science
+- 👀 I’m interested in iOS development and theoretical computer science
 - 🌱 I’m currently learning iOS development
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: a.ilonzo@outlook.com
